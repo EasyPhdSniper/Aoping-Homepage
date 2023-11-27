@@ -1,4 +1,4 @@
----
+
 title: "A Queue-SEIAR Model: Revealing the Transmission Mechanism of Epidemics in a Metro Line from a Meso Level"
 authors:
 - admin
@@ -63,14 +63,7 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
----
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-
----
 title: "State-dependent Multi-agent Discrete Event Simulation for Urban Rail Transit Passenger Flow"
 authors:
 - admin
