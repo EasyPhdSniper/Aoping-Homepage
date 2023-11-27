@@ -1,5 +1,5 @@
 ---
-- title: "A Queue-SEIAR Model: Revealing the Transmission Mechanism of Epidemics in a Metro Line from a Meso Level"
+title: "A Queue-SEIAR Model: Revealing the Transmission Mechanism of Epidemics in a Metro Line from a Meso Level"
 authors:
 - admin
 - Lu Hu
