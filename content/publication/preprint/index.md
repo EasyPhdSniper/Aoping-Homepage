@@ -63,11 +63,12 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
-
-
+---
+---
 title: "State-dependent Multi-agent Discrete Event Simulation for Urban Rail Transit Passenger Flow"
 authors:
-- admin, Lu Hu
+- admin
+- Lu Hu
 date: "2023-11-27T00:00:00Z"
 doi: ""
 
