@@ -126,7 +126,7 @@ sections:
       address:
         street: 999 Xi'an Road
         city: Chengdu, Sichuan
-        region: CA
+        region: CHN
         postcode: '611756'
         country: China
         country_code: CHN
