@@ -3,7 +3,7 @@ title: "A Queue-SEIAR Model: Revealing the Transmission Mechanism of Epidemics i
 authors:
 - admin
 - Lu Hu
-- Shang Pan
+- Pan Shang
 - Juanxiu Zhu
 date: "2023-11-27T00:00:00Z"
 doi: ""
