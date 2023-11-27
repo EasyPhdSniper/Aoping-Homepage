@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "A Queue-SEIAR Model: Revealing the Transmission Mechanism of Epidemics in a Metro Line from a Meso Level}"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2023-11-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,10 +17,10 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+The COVID-19 pandemic has affected communities worldwide. The metro, an essential means of public transportation in many cities, is particularly vulnerable to the spread of the virus due to its limited space and complex passenger flow structure. As the basis of quick and effective management decision-making, it is very important but intractable to accurately and quickly capture the transmission mechanism of epidemics in the metro line. This study addresses this challenge by proposing a meso-level Queue-SEIAR model. The Queue-SEIAR model integrates a feedback queuing network model, which captures the nonlinear stochastic effect of the congestion propagation on passenger mobility dynamics in the metro line, with an extended SEIAR (Susceptible, Exposed, Infected, Asymptomatic, and Recovered) epidemic model in multiple-subgroups situations. The risk of infection within a metro line is measured using the Total Number of Newly Exposed Travelers (TNNET). The Macro-level Epidemic Model (MEM) is proven to underestimate the TNNET compared with the proposed Queue-SEIAR model. A recursive algorithm is proposed to solve the Queue-SEIAR model, with time complexity that is independent of passenger volumes and station and train capacities, making it suitable for the analysis and decision-making of large-scale metro lines. The Queue-SEIAR model is validated versus the micro-level agent-based simulation. Numerical experiments reveal some interesting findings: (1) The gap between the Queue-SEIAR model and MEM in terms of TNNET will become larger with congestion; (2) From the Queue-SEIAR model, low-demand and low-risk stations may become high-risk because of the congestion propagation, while MEM does not think so; (3) There exists a moderate allowed entering proportion, train dwell time, and social distance to minimize the TNNET; (4) The optimal social distance increases as the train headway or travel demand increases; and (5) The epidemic prevention effectiveness of side platforms surpasses that of island platforms.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The Queue-SEIAR model integrates a feedback queuing network model, which captures the nonlinear stochastic effect of the congestion propagation on passenger mobility dynamics in the metro line, with an extended SEIAR (Susceptible, Exposed, Infected, Asymptomatic, and Recovered) epidemic model in multiple-subgroups situations.
 
 tags:
 - Source Themes
