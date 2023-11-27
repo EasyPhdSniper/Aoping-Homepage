@@ -76,5 +76,5 @@ social:
 highlight_name: true
 ---
 
-Hello! I'm Aoping, currently a master's student at the School of Transportation and Logistics, Southwest Jiaotong University, working with my superviser Dr. Lu Hu. My research interests include emerging mobility technologies, queuing theory, and traffic assignment. I have written (including collaborations) two papers for TRB conference proceedings and have two journal papers currently under submission. Moreover, I'm looking for a Ph.D. position!
+Hello! I'm Aoping, currently a master's student at the School of Transportation and Logistics, Southwest Jiaotong University, working with my supervisor Dr. Lu Hu. My research interests include emerging mobility technologies, queuing theory, and traffic assignment. Two TRB conference papers I have completed, including collaborations, have been accepted. Moreover, I'm looking for a Ph.D. position!
 {style="text-align: justify;"}
