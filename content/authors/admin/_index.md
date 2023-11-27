@@ -29,7 +29,7 @@ bio: My research interests include emerging movement technologies, queue theory 
 
 # Interests to show in About widget
 interests:
-  - Emerging Movement Technologies
+  - Emerging Mobility Technologies
   - Queue Theory
   - Traffic Assignment
 
@@ -93,31 +93,28 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/EasyPhdSniper
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/aoping-ryan-wu-821874288/
+  - icon: google-scholar
+    icon_pack: fab
+    link: https://scholar.google.cz/citations?hl=zh-CN&user=xdB4xCMAAAAJ
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Wu Aoping is currently a master's student at the School of Transportation and Logistics, Southwest Jiaotong University. His research interests include emerging mobility technologies, queuing theory, and traffic assignment. He has written (including collaborations) two papers for TRB conference proceedings and has two journal papers currently under submission.
 {style="text-align: justify;"}
