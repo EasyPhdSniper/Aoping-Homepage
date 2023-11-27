@@ -62,7 +62,7 @@ projects:
 # slides: example
 
 
-title: "State-dependent Multi-agent Discrete Event Simulation for Urban Rail Transit Passenger Flow"
+- title: "State-dependent Multi-agent Discrete Event Simulation for Urban Rail Transit Passenger Flow"
 authors:
 - admin, Lu Hu
 date: "2023-11-27T00:00:00Z"
