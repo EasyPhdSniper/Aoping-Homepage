@@ -129,7 +129,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: wuaoping4real@163.com
       # phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      # appointment_url: 'https://calendly.com'
       address:
         street: 999 Xi'an Road
         city: Chengdu, Sichuan
