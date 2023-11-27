@@ -1,7 +1,10 @@
 ---
 title: "A Queue-SEIAR Model: Revealing the Transmission Mechanism of Epidemics in a Metro Line from a Meso Level"
 authors:
-- admin, Lu Hu, Shang Pan, Juanxiu Zhu
+- admin
+- Lu Hu
+- Shang Pan
+- Juanxiu Zhu
 date: "2023-11-27T00:00:00Z"
 doi: ""
 
