@@ -70,7 +70,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: static/resume.pdf
+    link: https://hugoblox.com/templates/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
