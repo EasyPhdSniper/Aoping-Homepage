@@ -25,7 +25,7 @@ organizations:
     url: https://www.swjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include emerging movement technologies, queue theory and traffic assignment.
+bio: My research interests include emerging movement technologies, queue theory, and traffic assignment.
 
 # Interests to show in About widget
 interests:
@@ -40,7 +40,7 @@ education:
       institution: Southwest Jiaotong University
       year: 2021 - present
     - course: BSc in Traffic Engineering
-      institution: Changsha University of Science \& Technology
+      institution: Changsha University of Science & Technology
       year: 2017 - 2021
 
 # Skills
