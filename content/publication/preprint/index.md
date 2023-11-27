@@ -1,7 +1,7 @@
 ---
-title: "A Queue-SEIAR Model: Revealing the Transmission Mechanism of Epidemics in a Metro Line from a Meso Level}"
+title: "A Queue-SEIAR Model: Revealing the Transmission Mechanism of Epidemics in a Metro Line from a Meso Level"
 authors:
-- admin
+- admin, Lu Hu, Shang Pan, Juanxiu Zhu
 date: "2023-11-27T00:00:00Z"
 doi: ""
 
@@ -11,7 +11,7 @@ publishDate: ""
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -62,9 +62,9 @@ projects:
 # slides: example
 
 
-title: "A Queue-SEIAR Model: Revealing the Transmission Mechanism of Epidemics in a Metro Line from a Meso Level}"
+title: "State-dependent Multi-agent Discrete Event Simulation for Urban Rail Transit Passenger Flow"
 authors:
-- admin
+- admin, Lu Hu
 date: "2023-11-27T00:00:00Z"
 doi: ""
 
@@ -74,7 +74,7 @@ publishDate: ""
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
