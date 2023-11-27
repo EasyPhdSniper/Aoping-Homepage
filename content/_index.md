@@ -120,6 +120,7 @@ sections:
       text:
         - Aoping Wu, Lu Hu, Pan Shang, Juanxiu Zhu (2023). A Queue-SEIAR Model: Revealing the Transmission Mechanism of Epidemics in a Metro Line from a Meso Level.
         - State-dependent Multi-agent Discrete Event Simulation for Urban Rail Transit Passenger Flow
+        
   - block: contact
     id: contact
     content:
@@ -147,15 +148,15 @@ sections:
         longitude: '103.9862'  
 
       # Automatically link email and phone or display as text?
-      autolink: true
+      # autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # form:
+      #  provider: netlify
+      #  formspree:
+      #    id:
+      #  netlify:
+      #    # Enable CAPTCHA challenge to reduce spam?
+      #    captcha: false
     design:
       columns: '2'
 ---
