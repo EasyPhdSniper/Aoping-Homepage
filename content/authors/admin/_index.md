@@ -3,7 +3,7 @@
 title: Aoping Wu
 
 # Name pronunciation (optional)
-name_pronunciation: ow ping woo
+name_pronunciation: ow-ping woo
 
 # Full name (for SEO)
 first_name: Aoping
