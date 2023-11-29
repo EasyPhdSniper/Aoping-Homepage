@@ -44,7 +44,18 @@ sections:
       username: admin
 
 
+  - block: skills
+    id: news
+    content:
+      title: News
+      # subtitle: Preprints and Working Papers
+      text: asdasd
+    design:
+      columns: '1'
 
+
+
+    
 
   - block: skills
     id: featured
