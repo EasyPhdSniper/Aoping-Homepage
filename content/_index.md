@@ -57,7 +57,7 @@ sections:
       title: News
       text: 'asdasd'
     design:
-      columns: '1'
+      columns: '2'
 
  
   - block: portfolio
