@@ -44,18 +44,19 @@ sections:
       username: admin
 
 
-  - block: skills
-    id: news
-    content:
-      title: News
-      text:
-        -'2023-11-19. *A Queue-SEIAR Model: Revealing the Transmission Mechanism of Epidemics in a Metro Line from a Meso Level* has been rejected. What a pity!'
-        -'2023-9-23. The first revised draft *A Queue-SEIAR Model: Revealing the Transmission Mechanism of Epidemics in a Metro Line from a Meso Level* has been submitted to the journal *Transportation Research Part C*.'
-        -'2023-4-10. My manuscript *A Queue-SEIAR Model: Revealing the Transmission Mechanism of Epidemics in a Metro Line from a Meso Level* has been submitted to the journal *Transportation Research Part C*!'
-    design:
-      columns: '2'
 
-  
+
+  - block: skills
+    id: publication
+    content:
+      title: Publications
+      subtitle: Preprints and Working Papers
+      text: 'asdasd'
+      subtitle: Conference Papers
+      text: 'asdasd'
+    design:
+      columns: '1'
+
 
 
   - block: skills
