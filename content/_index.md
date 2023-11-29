@@ -54,13 +54,13 @@ sections:
 
 
 
-- block: skills
-    id: hobby
-    content:
-      title: Multifariousness
-      text: 'asdasd'
-    design:
-      columns: '1'
+  - block: skills
+      id: hobby
+      content:
+        title: Multifariousness
+        text: 'asdasd'
+      design:
+        columns: '1'
  
   - block: portfolio
     id: projects
