@@ -53,7 +53,7 @@ sections:
 
   - block: news
     content:
-      title: News
+     #  title: News
       text: ''
     design:
       columns: '1'
