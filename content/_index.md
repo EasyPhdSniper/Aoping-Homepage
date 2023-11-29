@@ -52,6 +52,17 @@ sections:
     design:
       columns: '2'
 
+  - block: skills
+    id: publication
+    content:
+      title: Publication
+      subtitle: Preprints and Working Papers
+      text: 'asdasd'
+      subtitle: Conference Papers
+      text: 'asdasd'
+    design:
+      columns: '2'
+
  
   - block: portfolio
     id: projects
@@ -81,6 +92,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
+  - id: gallery
     content:
       title: Gallery
       subtitle: ''
@@ -88,31 +100,8 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+  
+  
 
   
   - block: contact
