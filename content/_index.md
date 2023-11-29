@@ -52,13 +52,13 @@ sections:
       title: Publications
       items: 
         - subtitle: Preprints and Working Papers
-          text: |
-            - 'asdasd'
+          text: 
+            - asdasd
             - ''
         - subtitle: Conference Papers
           text: |
-            - 'asdasd'
-            - 'dasgdf'
+            - asdasd
+            - dasgdf
     design:
       columns: '1'
 
