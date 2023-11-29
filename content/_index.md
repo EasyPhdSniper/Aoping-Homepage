@@ -51,9 +51,7 @@ sections:
     content:
       title: Publications
       subtitle: Preprints and Working Papers
-      text: 
-        - 'asdasd'
-        - 'hkljh'
+      text: 'asdasd'
     design:
       columns: '1'
 
