@@ -54,7 +54,7 @@ sections:
   - block: skills
     content:
       title: News
-      text: ''
+      text: 'asdasd'
     design:
       columns: '1'
 
