@@ -50,7 +50,13 @@ sections:
       username: admin
     design:
       columns: '1'
-  
+
+  - block: news
+    content:
+      title: News
+      text: ''
+    design:
+      columns: '1'
 
  
   - block: portfolio
