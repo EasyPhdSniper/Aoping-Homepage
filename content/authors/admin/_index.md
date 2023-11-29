@@ -25,12 +25,12 @@ organizations:
     url: https://www.swjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include emerging movement technologies, queue theory, and traffic assignment.
+bio: My research interests include emerging movement technologies, queueing theory, and traffic assignment.
 
 # Interests to show in About widget
 interests:
   - Emerging Mobility Technologies
-  - Queue Theory
+  - Queueing Theory
   - Traffic Assignment
 
 # Education to show in About widget
@@ -76,5 +76,5 @@ social:
 highlight_name: true
 ---
 
-Hello! I'm Aoping, currently a master's student at the School of Transportation and Logistics, Southwest Jiaotong University, working with my supervisor Dr. Lu Hu. My research interests include emerging mobility technologies, queuing theory, and traffic assignment. Two TRB conference papers I have completed, including collaborations, have been accepted. Moreover, I'm looking for a Ph.D. position!
+Hello! I'm Aoping, currently a master's student at the School of Transportation and Logistics, Southwest Jiaotong University, working with my supervisor Dr. Lu Hu. My research interests include emerging mobility technologies, queueing theory, and traffic assignment. Two TRB conference papers I have completed, including collaborations, have been accepted. Moreover, I'm looking for a Ph.D. position!
 {style="text-align: justify;"}
