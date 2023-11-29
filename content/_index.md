@@ -52,16 +52,7 @@ sections:
     design:
       columns: '2'
 
-  - block: skills
-    id: publication
-    content:
-      title: Publication
-      subtitle: Preprints and Working Papers
-      text: 'asdasd'
-      subtitle: Conference Papers
-      text: 'asdasd'
-    design:
-      columns: '1'
+
 
 - block: skills
     id: hobby
