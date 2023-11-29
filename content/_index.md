@@ -51,9 +51,9 @@ sections:
     design:
       columns: '1'
 
-  - block: news
+  - block: skills
     content:
-     #  title: News
+      title: News
       text: ''
     design:
       columns: '1'
