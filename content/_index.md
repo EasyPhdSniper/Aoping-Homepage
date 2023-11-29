@@ -50,10 +50,11 @@ sections:
     id: featured
     content:
       title: Publications
-      subtitle: Preprints and Working Papers
-      text: 'asdasd'
-      subtitle: Conference Papers
-      text: 'asdasd'
+      items: 
+        - subtitle: Preprints and Working Papers
+          text: 'asdasd'
+        - subtitle: Conference Papers
+          text: 'asdasd'
     design:
       columns: '1'
 
