@@ -51,7 +51,7 @@ sections:
     content:
       title: Publications
       subtitle: Preprints and Working Papers
-      text: 'asdasd'
+      text: asdasd
     design:
       columns: '1'
 
