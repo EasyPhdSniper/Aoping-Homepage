@@ -50,7 +50,7 @@ sections:
     id: featured
     content:
       title: Publications
-      subtitle: Preprints and Working Papers
+      # subtitle: Preprints and Working Papers
       text: asdasd
     design:
       columns: '1'
