@@ -50,15 +50,10 @@ sections:
     id: featured
     content:
       title: Publications
-      items: 
-        - subtitle: Preprints and Working Papers
-          text: 
-            - asdasd
-            - ''
-        - subtitle: Conference Papers
-          text: |
-            - asdasd
-            - dasgdf
+      subtitle: Preprints and Working Papers
+      text: 
+        - asdasd
+        - 'hkljh'
     design:
       columns: '1'
 
