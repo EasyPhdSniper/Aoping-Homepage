@@ -51,11 +51,9 @@ sections:
     content:
       title: Publications
       subtitle: Preprints and Working Papers
-      text:
-        - 'asdasd'
+      text: 'asdasd'
       subtitle: Conference Papers
-      text:
-        - 'asdasd'
+      text: 'asdasd'
     design:
       columns: '1'
 
