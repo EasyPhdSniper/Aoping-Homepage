@@ -68,7 +68,7 @@ sections:
     id: hobby
     content:
       title: Multifariousness
-      text: 'asdasd'
+      text: 'In my free time, I enjoy playing basketball, playing the guitar, traveling, and watching movies. My favorite fingerstyle guitarist is Satoshi Gogo, and my favorite movie is *The Shawshank Redemption*'
     design:
       columns: '1'
  
