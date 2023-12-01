@@ -115,9 +115,7 @@ sections:
       # Email form provider
     design:
       columns: '2'
----
 
----
 
 
 # Your landing page sections - add as many different content blocks as you like
