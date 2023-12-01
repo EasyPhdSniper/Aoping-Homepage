@@ -36,10 +36,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MEng in Transportation
+    - course: M.Eng in Transportation
       institution: Southwest Jiaotong University
       year: 2021 - present
-    - course: BSc in Traffic Engineering
+    - course: B.Eng in Traffic Engineering
       institution: Changsha University of Science & Technology
       year: 2017 - 2021
 
@@ -54,7 +54,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: https://easyphdsniper.github.io/Aoping-wu.github.io/#contact
+    # link: https://easyphdsniper.github.io/Aoping-wu.github.io/#contact
+    link: /#contact
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.cz/citations?hl=zh-CN&user=xdB4xCMAAAAJ
