@@ -47,11 +47,10 @@ sections:
   - block: skills
     id: news
     content:
-      - title: News
+      title: News
       # subtitle: Preprints and Working Papers
-        text: lkjjlkj
-      - title: News 2
-        text: asdqw
+      text:
+        - lkjjlkj
     design:
       columns: '1'
 
