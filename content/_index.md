@@ -49,8 +49,7 @@ sections:
     content:
       title: News
       # subtitle: Preprints and Working Papers
-      text:
-        - lkjjlkj
+      text: lkjjlkj
     design:
       columns: '1'
 
