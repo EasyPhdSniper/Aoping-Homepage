@@ -54,8 +54,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    # link: https://easyphdsniper.github.io/Aoping-wu.github.io/#contact
-    link: /#contact
+    link: https://easyphdsniper.github.io/Aoping-wu.github.io/#contact
+    # link: /#contact
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.cz/citations?hl=zh-CN&user=xdB4xCMAAAAJ
