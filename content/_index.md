@@ -53,7 +53,7 @@ sections:
     design:
       columns: '1'
   
-  - block: buttons
+  - block: skills
     content:
       buttons:
         - title: Read my latest paper on LLMs
