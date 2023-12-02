@@ -50,8 +50,8 @@ sections:
       title: News
       # subtitle: Preprints and Working Papers
       text:
-        - lkjjlkj
-        - 13265
+        - 'lkjjlkj'
+        - '13265'
     design:
       columns: '1'
 
