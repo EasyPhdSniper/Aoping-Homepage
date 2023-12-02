@@ -49,7 +49,9 @@ sections:
     content:
       title: News
       # subtitle: Preprints and Working Papers
-      text: lkjjlkj
+      text:
+        - lkjjlkj
+        - 13265
     design:
       columns: '1'
 
@@ -84,8 +86,6 @@ sections:
     design:
       columns: '1'
   
-  
-
   
   - block: contact
     id: contact
