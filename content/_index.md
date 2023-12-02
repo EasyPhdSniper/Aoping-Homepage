@@ -49,7 +49,9 @@ sections:
     content:
       title: News
       # subtitle: Preprints and Working Papers
-      text: '13265'
+      items:
+        - text: '13265'
+        - text: 'dasda'
     design:
       columns: '1'
 
